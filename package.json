@@ -1,0 +1,24 @@
+{
+  "name": "udacapidocs",
+  "version": "0.0.1",
+  "description": "UDACAPI Documentation+",
+  "main": "index.js",
+  "authors": {
+    "name": "UDA Consulting",
+    "email": "udaconsulting@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UDADeveloper/udacapidocs.git"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.5.3",
+    "@vuepress/plugin-medium-zoom": "^1.5.3",
+    "vuepress": "^1.3.1"
+  }
+}
