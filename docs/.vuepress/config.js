@@ -56,9 +56,11 @@ module.exports = {
             '',
             '01-registration',
             '02-initial-setup',
-            '03-prepare-xlsforms',
-            '04-upload-xlsforms',
+            '03-prepare-xlsform',
+            '04-upload-xlsform',
             '05-test-form',
+            '06-preferences',
+            '07-query-builder',
           ]
         }
       ],
