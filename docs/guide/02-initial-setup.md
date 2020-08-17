@@ -22,4 +22,6 @@ To start using the system you need a survey form. Click `GO TO DRAFT FORMS` butt
 
 ![An image](/images/s2_3-RegForm.png)
 
-Now you are ready to upload your XLSForm.
+Now your new form is registered and you are ready to upload your XLSForm
+
+![An image](/images/s2_4-NewDraftForm.jpg)
