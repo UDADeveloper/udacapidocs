@@ -59,8 +59,9 @@ module.exports = {
             '03-prepare-xlsform',
             '04-upload-xlsform',
             '05-test-form',
-            '06-preferences',
-            '07-query-builder',
+            '06-data-collectors',
+            '07-preferences',
+            '08-query-builder',
           ]
         }
       ],

@@ -10,12 +10,16 @@
 
 ![An image](/images/s5_2-DownloadDraftQRCode.png)
 
-**Step 5.3** Whe you submit several survey forms to server you can download and see the dataset. Click Download test data button to get archived csv file.
+**Step 5.3** When you submit several survey forms to server you can download and see the dataset. Click Download test data button to get archived csv file.
 
 ![An image](/images/s5_3-GetDraftData.png)
 
+**Step 5.4** You can abandon the current draft and upload a new / revised XLSForm. You don't need to increase the version in this case. Click button `Abandon` to be able to upload a new draft.
+
+![An image](/images/s5_4-AbandonDraft.png)
+
 ## Publish form
 
-**Step 5.4** When you make sure that your survey form works as expected and you check the dataset you can publish it.
+**Step 5.5** When you make sure that your survey form works as expected and you check the dataset you can publish it.
 
-![An image](/images/s5_4-PublishForm.png)
+![An image](/images/s5_5-PublishForm.png)
