@@ -12,13 +12,13 @@ To start using the system you need a survey form. Click `GO TO DRAFT FORMS` butt
 
 ## Register a Project
 
-**Step 2.2** Each form belongs to a project. Therefor you also need to register a new project.
+**Step 2.2** Each survey form belongs to a project. Therefor you also need to register a new project.
 
 ![An image](/images/s2_2-RegProject.png)
 
 ## Add a Survey Form
 
-**Step 2.3** Next you register a survey form. i) First select a project from the list; ii) Enter Survey form title to be displayed on Devices. Instance Name is automatically generated from Form title, but you also can change it by clicking on pencil image.  Survey form’s default version is 1, change / increase it when needed. Add some description test about your survey form and click `Save` button.
+**Step 2.3** Next you register a survey form. i) First, select a project from the list; ii) Enter Survey form title to be displayed on Devices. Instance Name is automatically generated from Form title, but you also can manually change it by clicking on pencil image.  Survey form’s default version is 1, change / increase it when needed. Add some description test about your survey form and click `Save` button.
 
 ![An image](/images/s2_3-RegForm.png)
 

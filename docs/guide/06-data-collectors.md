@@ -1,6 +1,6 @@
 # Data collectors
 
-First you need to add Data Collector account who will use **ODK Collect** - mobile data collection apps submit survey data. Data Collectors are project based. Each project can have number of Data Collector accounts. Project owner can assign several Data Collector to a single form. If assigned to the form Data Collectors will be able to see this form among the list of forms, download the ones they need, and upload completed submissions to those forms.
+When you just publish your form, the next step is to add Data Collector account who will use [ODK Collect](https://play.google.com/store/apps/details?id=org.odk.collect.android&hl=en) - mobile data collection apps submit survey data. Data Collectors are project based. Each project can have number of Data Collector accounts. Project owner can assign several Data Collector to a single form. If assigned to the form Data Collectors will be able to see this form among the list of forms, download the ones they need, and upload completed submissions to those forms.
 
 **Step 6.1** Click `Data Collector` buttong to open Project Users page
 

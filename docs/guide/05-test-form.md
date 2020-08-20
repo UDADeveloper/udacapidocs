@@ -14,12 +14,14 @@
 
 ![An image](/images/s5_3-GetDraftData.png)
 
-**Step 5.4** You can abandon the current draft and upload a new / revised XLSForm. You don't need to increase the version in this case. Click button `Abandon` to be able to upload a new draft.
+**Step 5.4** You can abandon the current draft and upload a new / revised XLSForm. You don't need to increase the form version in this case. Click `Abandon` button to be able to upload a new draft.
 
 ![An image](/images/s5_4-AbandonDraft.png)
 
 ## Publish form
 
-**Step 5.5** When you make sure that your survey form works as expected and you check the dataset you can publish it.
+**Step 5.5** You can publish your draft form when you make sure that your survey form works as expected and you checked the dataset.
 
 ![An image](/images/s5_5-PublishForm.png)
+
+> **PLEASE Note**: When you publish the Draft Form, all test Submissions will be permanently removed.

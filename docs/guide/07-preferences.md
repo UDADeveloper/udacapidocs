@@ -1,6 +1,6 @@
 # Monitoring Preferences
 
-You need to assign you preferences to start Monitoring of data collection.  When you successfully deploy the form with all possible attachments, you can test your survey form before you publish the final version. To test your deployed survey form you need the QR Code of this form.
+For each published form you need to assign you preferences to start Monitoring of data collection. Click `Monitoring preferences` button to see all possible settings.
 
 ![An image](/images/s7_1-MPreferences.png)
 
