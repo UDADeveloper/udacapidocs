@@ -62,6 +62,11 @@ module.exports = {
             '06-data-collectors',
             '07-preferences',
             '08-query-builder',
+            '09-dashboard',
+            '10-data-monitoring',
+            '11-mapboard',
+            '12-data-analysis',
+            '13-data-processing',
           ]
         }
       ],
