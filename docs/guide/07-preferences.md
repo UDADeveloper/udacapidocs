@@ -44,4 +44,30 @@ Latest submissions block is bar chart indicating trend for latest days' data col
 
 ## Types of Dataset
 
+UDACAPI allows download your dataset in any of the following formats. Activate any of them to be able to donwload dataset in that format in Dashboard. 
+
+![An image](/images/s07_2_Datasets.png)
+
 ## Monitoring Tools
+
+With the help of Monitoring tools you can observe responses to any question while collecting data from field. For numeric answers that coult be a `Descriptive Statistics` including *maximum*, *minimum*, and *avarage* values also *mean*, *median*, *standard deviation*, etc. For categorical variables it could be a `Pie Chart` and `Cross table` as known as Pivot table. To add the monitoring tool click `New item` button.
+
+![An image](/images/s07_3_MT.png)
+
+### Descriptive Statistics
+
+To add a new descriptive statistics tool you need to Select table and one variable from that table. Then give a title for this tool and click `Save`
+
+![An image](/images/s07_3_MT_DS.png)
+
+### Pie Chart
+
+`Pie Chart` too also requires a *table* to be selected and a variable from that table. Then give a title for this tool and click `Save`
+
+![An image](/images/s07_3_MT_PCh.png)
+
+### Cross table
+
+For a `Cross table` tool after selecting a table you also need to choose a variable for *Column*, for *Row* and one for *Value* (as a Value you can select uniqueID column). Then type a title for this tool and click `Save`
+
+![An image](/images/s07_3_MT_CT.png)
