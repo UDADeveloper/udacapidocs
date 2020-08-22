@@ -6,7 +6,7 @@ Query builder will help to check you dataset for possible inconsistences.
 
 **Step 7.1** Click `Add query` button
 
-## Edit existence queries
+## Edit existing queries
 
 ## Download query results
 
