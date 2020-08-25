@@ -61,7 +61,7 @@ module.exports = {
             '05-test-form',
             '06-data-collectors',
             '07-preferences',
-            '08-query-builder',
+            // '08-query-builder',
             '09-dashboard',
             '10-data-monitoring',
             '11-mapboard',
