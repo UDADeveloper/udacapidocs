@@ -24,4 +24,6 @@
 
 ![An image](/images/s5_5-PublishForm.png)
 
-> **PLEASE Note**: When you publish the Draft Form, all test Submissions will be permanently removed.
+::: warning
+**Please note**: When you publish the Draft Form, all test Submissions will be permanently removed.
+:::
