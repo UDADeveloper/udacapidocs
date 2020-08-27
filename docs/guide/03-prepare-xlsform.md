@@ -12,3 +12,7 @@ then, click `DOWNLOAD` link to get the MS Excel template with useful structure o
 ![An image](/images/s2_3-xlsformTemplate.png)
 
 Once you prepare your XLSForm form you can upload it into UDACAPI platform.
+
+::: tip
+We also offer training on preparation of XLSForm form - Survey questionnaires. Please, [contact us](mailto:info@udaconsulting.com) for more details.
+:::
