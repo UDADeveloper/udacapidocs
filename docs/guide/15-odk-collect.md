@@ -16,7 +16,7 @@ Click `Import/Export settings`
 
 ![An image](/images/collect_adminsettings.png)
 
-To scan QR code from image click `SCAN CODE FROM OTHER DEVICE` and read the QR code generated for [Deployed forms](/guide/05-test-form.html#submit-test-data.md) or [Data Collects](/guide/06-data-collectors.md)'s QR code from Project settings.
+To scan QR code from image click `SCAN CODE FROM OTHER DEVICE` and read the QR code generated for [Deployed forms](/guide/12-test-form.html#submit-test-data.md) or [Data Collects](/guide/20-data-collectors.md)'s QR code from Project settings.
 
 ![An image](/images/collect_qrcode.png)
 

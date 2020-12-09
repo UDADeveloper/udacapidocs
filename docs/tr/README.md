@@ -2,8 +2,8 @@
 home: true
 heroImage: /UDACAPI.png
 tagline: UDACAPI Documentation+ (v2.01)
-actionText: Quick Start →
-actionLink: /guide/
+actionText: Başlat →
+actionLink: /tr/guide/
 features:
 - title: Real-Time Data Monitoring
   details: An innovative data collection and monitoring system on near to real time for all you surveys.

@@ -14,7 +14,7 @@ Monitoring blocks are section with information about the submissions from your s
 
 ### Progress map
 
-If you collect locational data in your survey form, activating `Progress map` choice let you monitor data collection progress on the map via [Dashboard](/guide/09-dashboard.md) and also activate [Mapboard section](/guide/11-mapboard.md). To activate this choice you shoule select `Longitude` and `Latitude` variables from your survey form.
+If you collect locational data in your survey form, activating `Progress map` choice let you monitor data collection progress on the map via [Dashboard](/guide/30-dashboard.md) and also activate [Mapboard section](/guide/45-mapboard.md). To activate this choice you shoule select `Longitude` and `Latitude` variables from your survey form.
 
 ![An image](/images/s07_1PM.png)
 

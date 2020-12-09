@@ -1,14 +1,20 @@
 const { description } = require('../../package')
 
 module.exports = {
-  /**
-   * Ref：https://v1.vuepress.vuejs.org/config/#title
-   */
-  title: 'UDACAPI Docs',
-  /**
-   * Ref：https://v1.vuepress.vuejs.org/config/#description
-   */
-  description: description,
+  locales: {
+    // The key is the path for the locale to be nested under.
+    // As a special case, the default locale can use '/' as its path.
+    '/': {
+      lang: 'en-US', // this will be set as the lang attribute on <html>
+      title: 'UDACAPI Docs',
+      description: description
+    },
+    '/tr/': {
+      lang: 'tr',
+      title: 'UDACAPI Dokümantasyon',
+      description: description
+    }
+  },
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
@@ -33,44 +39,93 @@ module.exports = {
     docsDir: '',
     editLinkText: '',
     lastUpdated: false,
-    nav: [
-      {
-        text: 'Guide',
-        link: '/guide/',
-      },
-      // {
-      //   text: 'Config',
-      //   link: '/config/'
-      // },
-      {
-        text: 'UDACAPI',
-        link: 'https://udacapi.com'
-      }
-    ],
-    sidebar: {
-      '/guide/': [
-        {
-          title: 'Guide',
-          collapsable: false,
-          children: [
-            '',
-            '01-registration',
-            '02-initial-setup',
-            '03-prepare-xlsform',
-            '04-upload-xlsform',
-            '08-odk-collect',
-            '05-test-form',
-            '06-data-collectors',
-            '07-preferences',
-            '09-dashboard',
-            '10-data-monitoring',
-            '11-mapboard',
-            '12-data-analysis',
-            '13-data-processing',
-          ]
+    locales: {
+      /* This is where you place your theme specific, localized data */
+      '/': {
+        // text for the language dropdown
+        selectText: 'Language',
+        // label for this locale in the language dropdown
+        label: 'English',
+        nav: [
+          {
+            text: 'Guide',
+            link: '/guide/',
+          },
+          {
+            text: 'UDACAPI',
+            link: 'https://udacapi.com'
+          }
+        ],
+        sidebar: {
+          '/guide/': [
+            {
+              title: 'Guide',
+              collapsable: false,
+              children: [
+                '',
+                '01-registration',
+                '02-initial-setup',
+                '03-account-settings',
+                '04-projects',
+                '10-prepare-xlsform',
+                '11-upload-xlsform',
+                '15-odk-collect',
+                '12-test-form',
+                '20-data-collectors',
+                '21-preferences',
+                '30-dashboard',
+                '40-data-monitoring',
+                '45-mapboard',
+                '50-data-analysis',
+                '60-data-processing',
+              ]
+            }
+          ],
         }
-      ],
-    }
+      },
+      '/tr/': {
+        // text for the language dropdown
+        selectText: 'Dil',
+        // label for this locale in the language dropdown
+        label: 'Türkçe',
+        nav: [
+          {
+            text: 'Kılavuz',
+            link: '/guide/',
+          },
+          {
+            text: 'UDACAPI',
+            link: 'https://udacapi.com'
+          }
+        ],
+        sidebar: {
+          '/tr/guide/': [
+            {
+              title: 'Guide',
+              collapsable: false,
+              children: [
+                '',
+                '01-registration',
+                '02-initial-setup',
+                '03-account-settings',
+                '04-projects',
+                '10-prepare-xlsform',
+                '11-upload-xlsform',
+                '15-odk-collect',
+                '12-test-form',
+                '20-data-collectors',
+                '21-preferences',
+                '30-dashboard',
+                '40-data-monitoring',
+                '45-mapboard',
+                '50-data-analysis',
+                '60-data-processing',
+              ]
+            }
+          ],
+        }
+      },
+    },    
   },
 
   /**
