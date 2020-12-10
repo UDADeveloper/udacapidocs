@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /UDACAPI.png
-tagline: UDACAPI Documentation+ (v2.01)
+tagline: UDACAPI Documentation+ (v2.04)
 actionText: Quick Start →
 actionLink: /guide/
 features:
