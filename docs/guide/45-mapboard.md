@@ -1,6 +1,6 @@
 # Mapboard
 
-You can use Mapboard if you collect locational data in your survey form and you activated `Progress map` in [Monitoring preferences](/guide/21-preferences.html##progress-map) page. Mapboard helps you to see the responses for question with pre-defined answers as a donut chart on the map.
+You can use Mapboard if you collect locational data in your survey form and you activated `Progress map` in [Monitoring preferences](/guide/21-preferences.html##progress-map) page. Mapboard helps you to see the responses for questions with predefined answers as a donut chart on the map.
 
 ![An image](/images/s11_mb.jpg)
 
@@ -8,7 +8,7 @@ The first button of the control buttons in the top right corner of `Mapboard`
 
 ![An image](/images/s11_map_btn.png)
 
-switchs the navigation bar on/off that makes map full page.
+switches the navigation bar on/off that makes the map full page.
 
 ![An image](/images/s11_mb_fp.jpg)
 

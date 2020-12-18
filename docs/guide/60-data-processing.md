@@ -1,14 +1,14 @@
 # Data processing
-
+ 
 ## Query Builder
-
-Query builder will help to check you dataset for possible inconsistences. You can add a new query by clicking `ADD QUERY` button or click `BUILDER` tab.
-
+ 
+Query builder will help to check your dataset for possible inconsistencies. You can add a new query by clicking the `ADD QUERY` button or click `BUILDER` tab.
+ 
 ![An image](/images/s13_qb.png)
-
+ 
 ### Build a new query
-
-Using query builder can design a query in any complexity. For this:
+ 
+Using a query builder can design a query in any complexity. For this:
 A) Select a dataset;
 B) Select `Match Type`;
 C) select a question;
@@ -38,11 +38,11 @@ This will be read as *"Find submission where answer to question F. Do you agree 
 
 ### Edit existing queries
 
-All you queries will be listed under `EXISTING QUERIES` tab. You can see the details of each query by clicking ![An image](/images/btn_expand.png) `Expand` button.
-
+All your queries will be listed under `EXISTING QUERIES` tab. You can see the details of each query by clicking ![An image](/images/btn_expand.png) `Expand` button.
+ 
 ![An image](/images/s13_qb_qdetails.png)
-
-Under **Actions** culumn of query list there are four buttons. 
+ 
+Under **Actions** column of the query list there are four buttons.
 
 ![An image](/images/s13_qb_queries.png)
 
@@ -58,7 +58,7 @@ If you do not need the query you can delete it by clicking ![An image](/images/b
 
 ### Exclude query results
 
-Sometimes you might want to exclude results of query from your datasets, so you can track the process with submission those have a accurate data. As in above example if you want to exclude all submission with not agreed respondents from [Dashboard](/guide/30-dashboard.md) statistics and from your [datasets](/guide/21-preferences.html#types-of-dataset) click ![An image](/images/btn_exclude.png) `Exclude results from dataset` button. 
+Sometimes you might want to exclude results of a query from your datasets, so you can track the process with submission that has accurate data. As in above example if you want to exclude all submission with not agreed respondents from [Dashboard](/guide/30-dashboard.md) statistics and from your [datasets](/guide/21-preferences.html#types-of-dataset) click ![An image](/images/btn_exclude.png) `Exclude results from dataset` button. 
 
 ::: tip
 1. Filter button is not available for queries of roster tables.

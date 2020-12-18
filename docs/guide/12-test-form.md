@@ -6,15 +6,15 @@
 
 ![An image](/images/s5_1-draftQRCode.png)
 
-**Step 5.2** Click QR Code image and scan it with your [ODK Collect](/guide/15-odk-collect.html) application or download it to share with your colleagues who will test the survey form.
+**Step 5.2** Click the QR Code image and scan it with your [ODK Collect](/guide/15-odk-collect.html) application or download it to share with your colleagues who will test the survey form.
 
 ![An image](/images/s5_2-DownloadDraftQRCode.png)
 
-**Step 5.3** When you submit several survey forms to server you can download and see the dataset. Click Download test data button to get archived csv file.
+**Step 5.3** When you submit several survey forms to the server you can download and see the dataset. Click the Download test data button to get the archived csv file.
 
 ![An image](/images/s5_3-GetDraftData.png)
 
-**Step 5.4** You can abandon the current draft and upload a new / revised XLSForm. You don't need to increase the form version in this case. Click `Abandon` button to be able to upload a new draft.
+**Step 5.4** You can abandon the current draft and upload a new / revised XLSForm. You don't need to increase the form version in this case. Click the `Abandon` button to be able to upload a new draft.
 
 ![An image](/images/s5_4-AbandonDraft.png)
 

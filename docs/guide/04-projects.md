@@ -1,6 +1,6 @@
 # Projects
 
-Click `Projects` menu to mange your projects
+Click `Projects` menu to manage your projects
 
 ![An image](/images/s4-ProjectsMenu.png)
 
