@@ -3,7 +3,7 @@
 
 ## Sign up
 
-**Step 1.1** Navigate [UDACAPI.com](https://udacapi.com) and click on menu:  `LOGIN`
+**Step 1.1** Navigate [UDACAPI.com](https://udacapi.com) and click on menu: " `LOGIN`"
 
 ![An image](/images/s01-Home-Login.jpg)
 
