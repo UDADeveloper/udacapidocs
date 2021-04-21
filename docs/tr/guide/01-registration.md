@@ -8,7 +8,7 @@
 ![An image](/images/s1_1-Home-SignUp.jpg)
 
 **Step 1.2** Choose a User name; Enter your Email; and Choose a Password
-Then click `GET STARTED`
+Then click `GET STARTED` Test
 
 ![An image](/images/s1_2-SignUp.jpg)
 
