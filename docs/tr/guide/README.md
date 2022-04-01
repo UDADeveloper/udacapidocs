@@ -1,6 +1,6 @@
 
-# Introduction
+# Tanıtım
 
-UDACAPI, UDA’s Computer Assisted Personal Interview Application, provides clients with a platform to collect survey data, monitor progress and data quality, and view basic data analyses. UDACAPI is customizable, flexible and tailored to client needs. UDACAPI provides transparent data collection, near to real-time access to data, and visual survey results as part of UDA Consulting’s commitment to the highest standards for quality data collection and analysis.
+UDA'nın Bilgisayar Destekli Kişisel Görüşme Uygulaması olan UDACAPI, müşterilere anket verilerini toplamak, ilerlemeyi ve veri kalitesini izlemek ve temel veri analizlerini görüntülemek için bir platform sağlar.UDACAPI müşteri ihtiyaçlarına göre özelleştirilebilir, değiştirilebilir ve uyarlanabilir bir yapıya sahiptir. UDACAPI şeffaf veri toplama, verilere eş zamanlı erişim ve UDA Danışmanlığın  kaliteli veri toplama ve analizi için en yüksek standartlara bağlılığının bir parçası olarak görsel anket sonuçları sağlar.
 
-![An image](/UdacapiProcess.png)
+![An image](/UdacapiProcess_tr.png)

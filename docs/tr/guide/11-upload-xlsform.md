@@ -1,19 +1,21 @@
-# Upload XLSForm
-
-When XLSForm of your survey form is ready you can upload it into the platform. Click `UPLOAD` button on the `Drafts` page:
-
-![An image](/images/s2_3-uploadLink.png)
-
-**Step 4.1** Navigate and attach your **XLSForm** (Excel file), then **Select default language** for your survey form.
-
-![An image](/images/s4_1-XlsFormUpload.png)
-
-When you are ready click `UPLOAD` button.
-
+# XLSForm yükleme
+ 
+Anket formunun XLSForm’u hazır olduğunda platforma yükleyebilirsiniz. `Projeler` sayfasındaki `İşlemler` sütununun altındaki `XLSForm Yükle` butonuna tıklayın:
+ 
+![An image](/images/s4-ProjectsDraftFormUpload-tr.png)
+ 
+**Adım 4.1** **XLSForm** (Excel dosyası) içinde gezinmek ve eklemek için `XLSForm Yükle` iletişim kutusunda `XLSForm dosyasını seç` alanına tıklayın ve ardından anketinizi varsayılan dilden `Varsayılan dili seçin` alanına ekleyin.
+ 
+![An image](/images/s4-ProjectsUploadXLSForm-tr.png)
+ 
+Hazır olduğunuzda `YÜKLE` butonuna tıklayın.
+ 
 ::: tip
-UDACAPI platform will generate the settings based on Form details. [Settings worksheet](http://xlsform.org/en/#settings-worksheet) of uploaded XLSForm will be ignored. You can change form details by clicking UPDATE button.
+UDACAPI platformu, ayarları form ayrıntılarına göre oluşturacaktır. [Ayarlar Çalışma Sayfası](http://xlsform.org/en/#settings-worksheet) yüklenen XLSForm yok sayılacaktır. `GÜNCELLEME` butonuna tıklayarak form detaylarını değiştirebilirsiniz.
 :::
-
-**Step 4.2** If the XLSForm has no errors your survey form will be deployed into server. If you have any media / csv files attached to your form you will be able to upload them by clicking on `Attachments` button.
-
-![An image](/images/s4_2-FormAttachments.png)
+ 
+**Adım 4.2** XLSForm'da herhangi bir hata yoksa, anket formunuz sunucuya yerleştirilecektir. Formunuza eklenmiş herhangi bir medya / csv dosyanız varsa, bunları `Ekler` butonuna tıklayarak yükleyebilirsiniz.
+ 
+![An image](/images/s4-ProjectsDeployedAttachment-tr.png)
+ 
+[XLSForm’unuzu test etmek ve yayınlamak](/guide/12-test-form.html) için hazır.

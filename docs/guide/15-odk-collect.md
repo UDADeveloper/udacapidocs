@@ -8,19 +8,15 @@ Download [ODK Collect](https://play.google.com/store/apps/details?id=org.odk.col
 
 ![An image](/images/collect_gplay.png)
 
-Open it and go to the `Admin Settings`
+Open it and go to the `Configure via QR code`
 
 ![An image](/images/collect_menu.png)
 
-Click `Import/Export settings`
-
-![An image](/images/collect_adminsettings.png)
-
-To scan QR code from image click `SCAN CODE FROM OTHER DEVICE` and read the QR code generated for [Deployed forms](/guide/12-test-form.html#submit-test-data.md) or [Data Collects](/guide/20-data-collectors.md)'s QR code from Project settings.
+To scan QR code from image read the QR code generated for [Deployed forms](/guide/12-test-form.html#submit-test-data.md) or [Data Collects](/guide/20-data-collectors.md)'s QR code from Project settings.
 
 ![An image](/images/collect_qrcode.png)
 
-Go back to the `General Settings` and click `Form management` button and make the following changes
+Or, if you want to scan the QR code from the device, click on `Import QR code` and select the QR code on your device.
 
 ![An image](/images/collect_fmanage.png)
 
@@ -34,4 +30,4 @@ Select the relevant questionnaire and click `Get Selected` button
 
 Go back to the main page. Now you can test the Survey form using `Fill Blank Form` button
 
-![An image](/images/collect_main.png)
+![An image](/images/fill_form.png)

@@ -1,13 +1,12 @@
-# Projects
+# Projeler
+Projelerinizi yönetmek için `Projeler` menüsüne tıklayın
+ 
+![An image](/images/s4-ProjectsMenu-tr.png)
 
-Click `Projects` menu to mange your projects
-
-![An image](/images/s4-ProjectsMenu.png)
-
-In this page you can add a new project, forms and manage web users of the project and data collectors
-
-![An image](/images/s4-Projects.png)
-
-## Project Settings
-
-![An image](/images/s4-ProjectSettings.png)
+Bu sayfada yeni bir proje, formlar ekleyebilir ve projenin web kullanıcılarını ve veri toplayıcılarını yönetebilirsiniz
+ 
+![An image](/images/s4-Projects-tr.png)
+ 
+## Proje Ayarları
+ 
+![An image](/images/s4-ProjectSettings-tr.png)

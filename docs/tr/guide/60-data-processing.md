@@ -1,66 +1,67 @@
-# Data processing
-
-## Query Builder
-
-Query builder will help to check you dataset for possible inconsistences. You can add a new query by clicking `ADD QUERY` button or click `BUILDER` tab.
-
+# Veri İşleme
+ 
+## Kalite Kontrol
+ 
+Sorgu oluşturucu, veri kümenizi olası tutarsızlıklar için kontrol etmenize yardımcı olacaktır. `SORGU EKLE` butonuna veya `OLUŞTURUCU` sekmesini tıklayarak yeni bir sorgu ekleyebilirsiniz.
+ 
 ![An image](/images/s13_qb.png)
-
-### Build a new query
-
-Using query builder can design a query in any complexity. For this:
-A) Select a dataset;
-B) Select `Match Type`;
-C) select a question;
-D) Click `Add Rule` for that question;
-E) Give a name for this query;
-Then you can save this filter.
-
+ 
+### Yeni Sorgu Oluşturma
+ 
+Bir sorgu oluşturucu kullanmak, herhangi bir karmaşıklıkta bir sorgu tasarlayabilir. Bunun için:
+A) Bir veri kümesi seçin;
+B) `Eşleşme Türü`nü seçin;
+C) Bir soru seçin;
+D) Bu soru için `Kural Ekle` yi tıklayın;
+E) Bu sorgu için bir isim veriniz;
+Sonra bu filtreyi kaydedebilirsiniz.
+ 
 ![An image](/images/s13_qb_add.png)
-
-::: details Example
-Let say you are providing phone survey and you have the question:
-
-**F. Do you agree to participate in the survey?** with answer choices:
-* *Yes*
-* *No-I do not want to participate*
-* *Phone number is not available*
-* *Did not respond/Respondent wants to be called later*
-
-You would like to know how many submissions does not have a survey data, e.g. the answer to question **F. Do you agree to participate in the survey?** was selected other than *Yes*. In this case in query builder `Match Type` will be **Any** and you add three rules for all three answer choices other than *Yes*.
-
-See: 
-
+ 
+::: details Örnek
+Diyelim ki telefon anketi yaptığınızı ve sorunuzu sorduğunuzda:
+ 
+**F. Ankete katılmayı kabul ediyor musunuz?** sorusunun yanıt seçenekleri ile:
+* *Evet*
+* *Hayır-katılmak istemiyorum*
+* *Telefon numarası mevcut değil*
+* *Cevap vermedi/ Yanıtlayan daha sonra aranmak istiyor*
+ 
+Kaç gönderinin anket verisine sahip olmadığını bilmek istiyorsunuz. Ör.**F. Ankete katılmayı kabul ediyor musunuz?** sorunun cevabı *Evet*. dışında seçildi. Bu durumda, sorgu oluşturucuda `Eşleşme Türü` **Herhangi** olacaktır ve *Evet* dışındaki üç yanıt seçeneğinin tümü için üç kural ekleyebilirsiniz.
+.
+ 
+Bakınız: 
+ 
 ![An image](/images/s13_qb_build.png)
-
-This will be read as *"Find submission where answer to question F. Do you agree to participate in the survey? is -'No-I do not want to participate' OR 'Phone number is not available' OR 'Did not respond/Respondent wants to be called later'"*
+ 
+Bu, *"F sorusunun cevabının bulunduğu gönderiyi bulun” şeklinde okunacaktır. F. Ankete katılmayı kabul ediyor musunuz? -'Hayır-Katılmak istemiyorum' Ya Da 'Telefon numarası mevcut değil' Veya 'Yanıt vermedi/ Yanıtlayan daha sonra aranmak istiyor.'"*
 :::
-
-### Edit existing queries
-
-All you queries will be listed under `EXISTING QUERIES` tab. You can see the details of each query by clicking ![An image](/images/btn_expand.png) `Expand` button.
-
+ 
+### Mevcut Sorguyu Düzenleyin
+ 
+Tüm sorgularınız `MEVCUT SORGULAR` sekmesi altında listelenecektir. ![An image](/images/btn_expand.png) `Genişlet` butonuna tıklayarak her bir sorgunun ayrıntılarını görebilirsiniz.
+ 
 ![An image](/images/s13_qb_qdetails.png)
-
-Under **Actions** culumn of query list there are four buttons. 
-
+ 
+Sorgu listesinin **İşlemler** sütununun altında dört buton vardır.
+ 
 ![An image](/images/s13_qb_queries.png)
-
-To change the existing query click on button ![An image](/images/btn_pencil.png) `Edit query`
-
-### Download query results
-
-You can download results of your queries by clicking ![An image](/images/btn_download.png) `Download results` button under **Actions** column. This will download archived version of query result for all datasets you activated in [Monitoring preferences](/guide/21-preferences.md#types-of-dataset) page.
-
-### Delete query
-
-If you do not need the query you can delete it by clicking ![An image](/images/btn_delete.png) `Delete this query` button under **Actions** column.
-
-### Exclude query results
-
-Sometimes you might want to exclude results of query from your datasets, so you can track the process with submission those have a accurate data. As in above example if you want to exclude all submission with not agreed respondents from [Dashboard](/guide/30-dashboard.md) statistics and from your [datasets](/guide/21-preferences.html#types-of-dataset) click ![An image](/images/btn_exclude.png) `Exclude results from dataset` button. 
-
+ 
+Mevcut sorguyu değiştirmek için butonuna tıklayın ![An image](/images/btn_pencil.png) `Sorguyu Düzenle`
+ 
+### Sorgu Sonuçlarını İndirin
+ 
+**İşlemler ** sütununun altındaki ![An image](/images/btn_download.png) `Sonuçları indir` butonuna tıklayarak sorgularınızın sonuçlarını indirebilirsiniz.Bu, [İzleme Tercihleri](/guide/21-preferences.md#types-of-dataset) sayfasında etkinleştirdiğiniz tüm veri kümeleri için sorgu sonucunun arşivlenmiş sürümünü indirecektir.
+ 
+### Sorgu Silme
+ 
+Sorguya ihtiyacınız yoksa, **İşlemler** sütunun altındaki ![An image](/images/btn_delete.png) `Bu Sorguyu Sil` butonuna tıklayarak silebilirsiniz.
+ 
+### Sorgu Sonuçlarını Dahil Etmemek
+ 
+Bazen bir sorgunun sonuçlarını veri kümelerinizden hariç tutmak isteyebilirsiniz, böylece süreci doğru verilere sahip gönderimlerle takip edebilirsiniz. Yukarıdaki örnekte olduğu gibi, yanıtlayanların kabul edilmediği tüm gönderimleri  [Gösterge Paneli](/guide/30-dashboard.md) istatistiklerinden ve  [Veri Kümelerinizden](/guide/21-preferences.html#types-of-dataset) hariç tutmak istiyorsanız![An image](/images/btn_exclude.png) `Sonuçları veri kümesinden hariç tut` butonuna tıklayın. 
+ 
 ::: tip
-1. Filter button is not available for queries of roster tables.
-2. Excluding results will not delete any of your submissions, moreover you can edit or delete queries any time.
+1. Liste tablolarının sorguları için filtre düğmesi kullanılamaz.
+2. Sonuçları hariç tutmak gönderimlerinizin hiçbirini silmez, ayrıca sorguları istediğiniz zaman düzenleyebilir veya silebilirsiniz.
 :::

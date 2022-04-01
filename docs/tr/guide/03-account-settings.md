@@ -1,38 +1,39 @@
-# Account Settings
+# Kullanıcı Ayarları
+ 
+Hesap ayarlarına, hesap menüsünün `Ayarlar` sekmesinden ulaşılabilir.
+ 
+![An image](/images/s3-AppSettingsMenu-tr.png)
 
-Account settings are availabe from `Settings` of account menu menu
+Bu bölümde hesabınızın ayrıntılarını değiştirebilir, yeni bir web kullanıcısı oluşturabilir ve kuruluşunuzun ayrıntılarını düzenleyebilirsiniz.
+ 
+ 
+![An image](/images/s3-AppSettings-tr.png)
+ 
+## Kullanıcı Bilgisi
+ 
+Şifrenizi değiştirmek için bu bloğu kullanın. Şifrenizi değiştirmek için bloğun sol üst köşesindeki butona tıklayın.
 
-![An image](/images/s3-AppSettingsMenu.png)
-
-In this section you can change details of your account, register a new web users and edit your organization's details
-
-
-![An image](/images/s3-AppSettings.png)
-
-## Account Info
-
-Use this block to change your password. Click button on the left top corner of the block to change your password.
 ![An image](/images/s3-AppSettingsBtnAccounInfo.png)
-
-You need to enter your **Current Password** into the first field and your **New Password** to the second field
-
-![An image](/images/s3-AppSettingsChangePass.png)
-
-## Register a New User
-
-To register a new web user click the button on the left top corner of this block. 
+ 
+İlk alana **Mevcut Şifrenizi** ve ikinci alana **Yeni Şifre** girmeniz gerekir.
+ 
+![An image](/images/s3-AppSettingsChangePass-tr.png)
+ 
+## Yeni Kullanıcı Oluşturma
+ 
+Yeni bir web kullanıcısı oluşturmak için bu bloğun sol üst köşesindeki butona tıklayın.  
 ![An image](/images/s3-AppSettingsBtnAddStaff.png)
-
-You can register two types of web users: **Staff** and **Client**. Staffs can see other web users of your organization, while clients can see only Account Owner and project manager.
-
-![An image](/images/s3-AppSettingsAddStaff.png)
-
-::: details User Types: Use Case
-When you have several projects from different clients, you most likely want that each of your client could see only those data that they are related with. To achive this you need to register a new web user as a client. Then you assign a relevent project for this clint in Project Settings section.
+ 
+İki tür web kullanıcısı kaydedebilirsiniz: **Personel** ve **Müşteri**. Personel, kuruluşunuzun diğer web kullanıcılarını görebilirken, müşteriler yalnızca hesap sahibi ve proje yöneticisini görebilir.
+ 
+![An image](/images/s3-AppSettingsAddStaff-tr.png)
+ 
+::: details Kullanıcı Türleri: Kullanım Durumu
+Farklı müşterilerden birkaç projeye sahip olduğunuzda, büyük olasılıkla müşterilerinizin her birinin yalnızca ilişkili oldukları verileri görebilmesini istersiniz. Bunun için, yeni bir web kullanıcısını müşteri olarak kaydetmeniz gerekir. Daha sonra Proje Ayarları bölümünde bu müşteri için ilgili bir proje atarsınız.
 :::
-
+ 
 ::: tip
-1. Web user's access levels are project based. 
-2. New users by default will not have any access to any project.
-3. To grant access to a web user you use Project Settings.
+1. Web kullanıcısının erişim seviyeleri proje bazlıdır.  
+2. Yeni kullanıcıların herhangi bir projeye erişimi olmayacaktır.
+3. Web kullanıcısına erişim izni şu adresten yapılır [Proje Ayarları](/guide/04-projects.html#project-settings.md).
 :::

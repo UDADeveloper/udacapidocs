@@ -14,7 +14,7 @@ When you just publish your form, the next step is to add Data Collector account 
 
 ![An image](/images/s6_2_1-DataCollectorAdd.png)
 
-**Step 6.2.2** Then give a name and click the `Save` button.
+**Step 6.2.2** Then give a name and click the `Register` button.
 
 ![An image](/images/s6_2_2-DataCollectorNew.png)
 

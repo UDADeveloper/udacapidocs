@@ -1,37 +1,33 @@
 # ODK Collect
-
-ODK Collect is an open source, phone-based replacement for your paper forms. It renders a form, survey, or algorithm into prompts that support complex logic, repeating questions, and multiple languages. Data types include location, audio, images, video, barcodes, signatures, multiple-choice, free text, and numeric answers. Collect is part of the Open Data Kit tool suite. For in-depth guide to using the Collect App see the official [ODK Documentation](https://docs.getodk.org/collect-using/)
-
-## Quick start
-
-Download [ODK Collect](https://play.google.com/store/apps/details?id=org.odk.collect.android&hl=en) from Google Play market 
-
+ 
+ODK Collect, kağıt formlarınız için açık kaynaklı, telefon tabanlı bir alternatiftir. Bir form, anket veya algoritmayı, karmaşık mantığı, tekrar eden soruları ve birden çok dili destekleyen istemlere dönüştürür. Veri türleri arasında konum, ses, resimler, video, barkodlar, imzalar, çoktan seçmeli, serbest metin ve sayısal yanıtlar bulunur.Collect, Open Data Kit araç paketinin bir parçasıdır. Collect Uygulamasını kullanımı ile ilgili ayrıntılı kılavuz için; [ODK Documentation](https://docs.getodk.org/collect-using/)
+ 
+## Hızlı Başlangıç
+ 
+Google Play üzerinden indir [ODK Collect](https://play.google.com/store/apps/details?id=org.odk.collect.android&hl=en)  
+ 
 ![An image](/images/collect_gplay.png)
+ 
+Açın ve  `Configure via QR code` a gidin.
+ 
+![An image](/images/collect_menu-tr.png)
+ 
+ Daha önce [Yüklenen Form](/tr/guide/12-test-form.html#test-verilerini-gonderin) için oluşturduğunuz ya da [Veri toplayıcılar](/tr/guide/20-data-collectors.html) kısmında bulunan Proje ayarlarındaki QR kodu taratın. 
+ 
+![An image](/images/collect_qrcode-tr.png)
+ 
+Ya da Cihazdan QR kodu taratmak isterseniz, `Import QR code` a tıklayın ve cihazınızdaki QR kodu seçin.
 
-Open it and go to the `Admin Settings`
-
-![An image](/images/collect_menu.png)
-
-Click `Import/Export settings`
-
-![An image](/images/collect_adminsettings.png)
-
-To scan QR code from image click `SCAN CODE FROM OTHER DEVICE` and read the QR code generated for [Deployed forms](/guide/12-test-form.html#submit-test-data.md) or [Data Collects](/guide/20-data-collectors.md)'s QR code from Project settings.
-
-![An image](/images/collect_qrcode.png)
-
-Go back to the `General Settings` and click `Form management` button and make the following changes
-
-![An image](/images/collect_fmanage.png)
-
-Go back to the main page and click `Get Blank Form` button
-
-![An image](/images/collect_main.png)
-
-Select the relevant questionnaire and click `Get Selected` button
-
-![An image](/images/collect_form.png)
-
-Go back to the main page. Now you can test the Survey form using `Fill Blank Form` button
-
-![An image](/images/collect_main.png)
+![An image](/images/collect_fmanage-tr.png)
+ 
+Ana sayfaya geri dönün ve `Boş Form Al` butonuna tıklayın.
+ 
+![An image](/images/collect_main-tr.png)
+ 
+İlgili anketi seçin ve `Seçilenleri Getir` butonuna tıklayın.
+ 
+![An image](/images/collect_form-tr.png)
+ 
+Ana sayfaya geri dönün. Artık `Boş Form Doldur` butonunu kullanarak anket formunu test edebilirsiniz.
+ 
+![An image](/images/fill_form-tr.png)

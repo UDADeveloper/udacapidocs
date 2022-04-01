@@ -1,75 +1,73 @@
-# Monitoring Preferences
-
-For each published form you need to assign you preferences to start Monitoring of data collection. Click `Monitoring preferences` button to see all possible settings.
-
-<BestButton>Push Me</BestButton>
-
-![An image](/images/s7_1-MPreferences.png)
-
-## Monitoring blocks
-
-Monitoring blocks are section with information about the submissions from your survey form. If you collect GPS or calculate latitude and longitude data you monitor the `Progress on the map`. There are also `Progress Pie`, `Daily Progress` and `Latest Submissions` blocks available. You can activate them. Only selected block will be included into your Dashboard
-
-![An image](/images/s07_1DB_empty.png)
-
-### Progress map
-
-If you collect locational data in your survey form, activating `Progress map` choice let you monitor data collection progress on the map via [Dashboard](/guide/30-dashboard.md) and also activate [Mapboard section](/guide/45-mapboard.md). To activate this choice you shoule select `Longitude` and `Latitude` variables from your survey form.
-
-![An image](/images/s07_1PM.png)
-
-### Progress pie
-
-Progress pie block does not require any specific variable to be selected you need select table:
-
-![An image](/images/s07_1PP.png)
-
-also you need to indicate your target - total number of submissions you planned to collect from the field. Default number is 100, you change it accordingly.
-
-![An image](/images/s07_1PP_target.png)
-
-### Daily progress
-
-Daily progress will inform about current progress and previous days' statistics in terms of data collection. In this block you can also see the start date of data collection progress and remining surveys.
-
-![An image](/images/s07_1PP.png)
-
-Here also you need to indicate your target - total number of submissions you planned to collect from the field. Default number is 100, you change it accordingly.
-
-![An image](/images/s07_1DP_target.png)
-
-### Latest submissions
-
-Latest submissions block is bar chart indicating trend for latest days' data collection statistics. While activating this block you need to indicate the number - how many days you whould like to include into this bar chart
-
-![An image](/images/s07_1LS.png)
-
-## Types of Dataset
-
-UDACAPI allows download your dataset in any of the following formats. Activate any of them to be able to donwload dataset in that format in Dashboard. 
-
-![An image](/images/s07_2_Datasets.png)
-
-## Monitoring Tools
-
-With the help of Monitoring tools you can observe responses to any question while collecting data from field. For numeric answers that coult be a `Descriptive Statistics` including *maximum*, *minimum*, and *avarage* values also *mean*, *median*, *standard deviation*, etc. For categorical variables it could be a `Pie Chart` and `Cross table` as known as Pivot table. To add the monitoring tool click `New item` button.
-
-![An image](/images/s07_3_MT.png)
-
-### Descriptive Statistics
-
-To add a new descriptive statistics tool you need to Select table and one variable from that table. Then give a title for this tool and click `Save`
-
-![An image](/images/s07_3_MT_DS.png)
-
-### Pie Chart
-
-`Pie Chart` too also requires a *table* to be selected and a variable from that table. Then give a title for this tool and click `Save`
-
-![An image](/images/s07_3_MT_PCh.png)
-
-### Cross table
-
-For a `Cross table` tool after selecting a table you also need to choose a variable for *Column*, for *Row* and one for *Value* (as a Value you can select uniqueID column). Then type a title for this tool and click `Save`
-
-![An image](/images/s07_3_MT_CT.png)
+# İzleme Tercihleri
+ 
+Yayınlanan her form için, veri toplamayı izlemeye başlamak için önce tercihler atamanız gerekir. Tüm olası ayarları görmek için `İzleme Tercihleri` butonuna tıklayın.
+ 
+![An image](/images/s7_1-MPreferences-tr.png)
+ 
+## İzleme Blokları
+ 
+İzleme blokları, anket formunuzdaki gönderiler hakkında bilgi içeren bölümdür. GPS toplarsanız veya enlem ve boylam verilerini girerseniz, `Haritadaki ilerleme` yi izlersiniz. Ayrıca orada `İlerleme Grafiği`, `Günlük İlerleme` ve `En Son Gönderimler` blokları da mevcuttur. Onları etkinleştirebilirsiniz. Gösterge Tablosuna yalnızca seçilen blok dahil edilecek.
+ 
+![An image](/images/s07_1DB_empty-tr.png)
+ 
+### İlerleme Haritası
+ 
+Anket formunuzda konum verilerini toplarsanız,`İlerleme Haritası` seçeneğini etkinleştirmek, harita üzerinde veri toplama ilerlemesini [Gösterge Paneli](/guide/30-dashboard.md) aracılığıyla izlemenize ve ayrıca [Harita Tahtası Bölüm](/guide/45-mapboard.md). öğesini etkinleştirmenize olanak tanır. Bu seçimi etkinleştirmek için anket formundan `Boylam` ve `Enlem` değişkenlerini seçmelisiniz.
+ 
+![An image](/images/s07_1PM-tr.png)
+ 
+### İlerleme Grafiği
+ 
+İlerleme Grafiği bloğu, belirli bir değişkenin seçilmesini gerektirmez, tablo seçmeniz gerekir:
+ 
+![An image](/images/s07_1PP-tr.png)
+ 
+Ayrıca hedefinizi belirtmeniz gerekir - sahadan toplamayı planladığınız toplam gönderi sayısı. Varsayılan sayı 100'dür, buna göre değiştirirsiniz.
+ 
+![An image](/images/s07_1PP_target-tr.png)
+ 
+### Günlük İlerleme
+ 
+Günlük ilerleme, veri toplama açısından mevcut ilerleme ve önceki günlerin istatistikleri hakkında bilgi verecektir. Bu blokta ayrıca veri toplama ilerlemesinin başlangıç tarihini ve kalan anketleri görebilirsiniz.
+ 
+![An image](/images/s07_1PP-tr.png)
+ 
+Burada ayrıca hedefinizi belirtmeniz gerekir - sahadan toplamayı planladığınız toplam gönderi sayısı. Varsayılan sayı 100'dür, buna göre değiştirirsiniz.
+ 
+![An image](/images/s07_1DP_target-tr.png)
+ 
+### En Son Gönderimler
+ 
+En son gönderim bloğu, son günlerin veri toplama istatistikleri için eğilimleri gösteren bir çubuk grafiktir. Bu bloğu etkinleştirirken, bu çubuk grafiğe kaç gün dahil etmek istediğinizi belirtmeniz gerekir.
+ 
+![An image](/images/s07_1LS-tr.png)
+ 
+## Veri Kümesi Türleri
+ 
+UDACAPI, veri kümenizi aşağıdaki biçimlerden herhangi birinde indirmenize izin verir. Veri kümesini Gösterge Panelinde o formatta indirebilmek için bunlardan herhangi birini etkinleştirin. 
+ 
+![An image](/images/s07_2_Datasets-tr.png)
+ 
+## İzleme Araçları
+ 
+İzleme araçlarının yardımıyla sahadan veri toplarken herhangi bir soruya verilen yanıtları gözlemleyebilirsiniz. Sayısal cevaplar için `Betimsel İstatistikler` dahil olmak üzere *maksimum*, *minimum*, ve *ortalama* değerler ve ayrıca  *medyan*, *standart sapma*, vb. Kategorik değişkenler için, Pivot tablosu olarak bilinen bir  `Dilim Grafik` ve `Çapraz Tablo` olabilir. İzleme aracını eklemek için `Yeni Öğe` butonuna tıklayın.
+ 
+![An image](/images/s07_3_MT-tr.png)
+ 
+### Betimleyici İstatistik
+ 
+Yeni bir tanımlayıcı istatistik aracı eklemek için, tablo ve bu tablodan bir değişken seçmeniz gerekir. Ardından bu araç için bir  başlık verin ve`Kaydet`e tıklayın.
+ 
+![An image](/images/s07_3_MT_DS-tr.png)
+ 
+### Dilim Grafiği
+ 
+`Dilim Grafiği` de bir *tablo* seçilmesini ve bu tablodan bir değişken gerektirir. Ardından bu araç için bir başlık verin ve `Kaydet`e tıklayın.
+ 
+![An image](/images/s07_3_MT_PCh-tr.png)
+ 
+### Çapraz Tablo
+ 
+Bir tablo seçtikten sonra `Çapraz Tablo` aracı için, ayrıca *Sütun*, *Satır* ve *Değer* için bir değişken seçmeniz gerekir (Değer olarak benzersiz bir kimlik sütunu seçebilirsiniz). Ardından bu araç için bir başlık yazın ve `Kaydet`e tıklayın.
+ 
+![An image](/images/s07_3_MT_CT-tr.png)

@@ -1,33 +1,34 @@
-# Dashboard
-
-Dashboard will help you to monitor you data collection process and initially it has no blocks. You should add blocks using [Monitoring preferences](/guide/21-preferences.html#monitoring-blocks).
-
-::: tip Note
-Dashbord presents you your survey data in near to real time. If you have any queries marked to be exclude from dataset in [Query Builder](/guide/60-data-processing.html#query-builder), than the results of that query will not be included into the data of these blocks.
+# Gösterge Paneli
+ 
+Gösterge Paneli, veri toplama sürecinizi izlemenize yardımcı olur ve başlangıçta bloklar yoktur. Kullanarak blok eklemelisiniz [İzleme Tercihleri](/guide/21-preferences.html#monitoring-blocks).
+ 
+::: tip Not
+Dashboard size anket verilerinizi neredeyse gerçek zamanlı olarak sunar. [Sorgu Oluşturucusu](/guide/60-data-processing.html#query-builder), veri kümesinden hariç tutulmak üzere işaretlenmiş herhangi bir sorunuz varsa, bu sorgunun sonuçları bu blokların verilerine dahil edilmeyecektir.
+ 
 :::
-
-## Progress map
-
-If you nave locational data you can monitor your survey locations on the map. For this you should turn on this block in [Monitoring preferences](/guide/21-preferences.html#progress-map).
-
-![An image](/images/s09_map.jpg)
-
-## Dashboard blocks
-
-`Progress pie chart`, `Daily progress` and `Latest submissions` blocks are also activated in [Monitoring preferences](/guide/21-preferences.html#monitoring-blocks) page.
-
-![An image](/images/s09_mblocks.jpg)
-
-## Download Datasets
-
-Types of the datasets included into this section also activated via [Monitoring preferences](/guide/21-preferences.html#monitoring-blocks) page. 
-
-![An image](/images/s09_datasets.jpg)
-
-To be able to download a dataset of you choice first you should generate the latest version of the data by clicking ![An image](/images/s09_gen.png)
-
-![An image](/images/s09_dataset_gen.png)
-
-When dataset is generated you can download it
-
-![An image](/images/s09_dataset_dwn.png)
+ 
+## İlerleme Haritası
+ 
+Konumsal verileriniz varsa, harita üzerinde anket konumlarınızı izleyebilirsiniz. Bunun için [İzleme Tercihleri](/guide/21-preferences.html#progress-map) bloğunu açmalısınız.
+ 
+![An image](/images/s09_map-tr.jpg)
+ 
+## Gösterge Paneli Bloğu
+ 
+`İlerleme Grafiği`, `Günlük İlerleme` ve`En Son Gönderimler` blokları da [İzleme Tercihleri](/guide/21-preferences.html#monitoring-blocks) sayfasında etkinleştirilir.
+ 
+![An image](/images/s09_mblocks-tr.png)
+ 
+## Veri Seti İndirme
+ 
+Bu bölüme dahil edilen veri kümelerinin türleri ayrıca [İzleme Tercihleri](/guide/21-preferences.html#monitoring-blocks) sayfası aracılığıyla etkinleştirildi. 
+ 
+![An image](/images/s09_datasets-tr.png)
+ 
+Seçtiğiniz bir veri kümesini indirebilmek için önce üzerine tıklayarak verilerin en son sürümünü oluşturmalısınız. ![An image](/images/s09_gen.png)
+ 
+![An image](/images/s09_dataset_gen-tr.png)
+ 
+Veri kümesi oluşturulduğunda onu indirebilirsiniz.
+ 
+![An image](/images/s09_dataset_dwn-tr.png)

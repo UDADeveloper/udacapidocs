@@ -1,29 +1,28 @@
-# Test and publish form
-
-## Submit test data
-
-**Step 5.1** When you successfully deploy the form with all possible attachments, you can test your survey form before you publish the final version. To test your deployed survey form you need the QR Code of this form.
-
-![An image](/images/s5_1-draftQRCode.png)
-
-**Step 5.2** Click QR Code image and scan it with your ODK Collect or download it to share with your colleagues who will test the survey form
-
-![An image](/images/s5_2-DownloadDraftQRCode.png)
-
-**Step 5.3** When you submit several survey forms to server you can download and see the dataset. Click Download test data button to get archived csv file.
-
-![An image](/images/s5_3-GetDraftData.png)
-
-**Step 5.4** You can abandon the current draft and upload a new / revised XLSForm. You don't need to increase the form version in this case. Click `Abandon` button to be able to upload a new draft.
-
-![An image](/images/s5_4-AbandonDraft.png)
-
-## Publish form
-
-**Step 5.5** You can publish your draft form when you make sure that your survey form works as expected and you checked the dataset.
-
-![An image](/images/s5_5-PublishForm.png)
-
-::: warning
-**Please note**: When you publish the Draft Form, all test Submissions will be permanently removed.
+# Form test et ve yayınla
+ 
+## Test verilerini gönderin
+ 
+**Adım 5.1** Formu olası tüm eklerle başarıyla yüklediğinizde, son sürümü yayınlamadan önce anket formunuzu test edebilirsiniz. Yüklediğiniz anket formunuzu test etmek için bu formun QR Koduna ihtiyacınız vardır.
+ 
+![An image](/images/s5_1-draftQRCode-tr.png)
+ 
+**Adım 5.2** QR Kod görseline tıklayın ve [ODK Collect](/guide/15-odk-collect.html) uygulamasından taratın ya da Anket soru formunu test edecek kişilerle paylaşabilmek için cihazınıza indirin.
+![An image](/images/s5_2-DownloadDraftQRCode-tr.png)
+ 
+**Adım 5.3** Sunucuya birkaç anket formu gönderdiğinizde, veri setini indirebilir ve görebilirsiniz. Arşivlenmiş CSV dosyasını almak için test verilerini indir butonuna tıklayın.
+ 
+![An image](/images/s5_3-GetDraftData-tr.png)
+ 
+**Adım 5.4**  Mevcut taslaktan vazgeçebilir ve yeni / revize edilmiş bir XLSFormu yükleyebilirsiniz. Bu durumda form sürümünü yükseltmenize gerek yoktur. Yeni bir taslak yükleyebilmek için `Bu Formu terk edin` butonuna tıklayın.
+ 
+![An image](/images/s5_4-AbandonDraft-tr.png)
+ 
+## Formu Yayınla
+ 
+**Adım 5.5** Anket formunun beklendiği gibi çalıştığından emin olduğunuzda ve veri setini kontrol ettiğinizde taslak formunuzu yayınlayabilirsiniz.
+ 
+![An image](/images/s5_5-PublishForm-tr.png)
+ 
+::: warning UYARI
+**Lütfen dikkate alınız**: Taslak Formu yayınladığınızda, tüm test gönderimleri kalıcı olarak kaldırılacaktır.
 :::

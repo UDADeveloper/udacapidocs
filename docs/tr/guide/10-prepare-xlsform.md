@@ -1,18 +1,17 @@
-# Prepare XLSForm
-
-XLSForm is a form standard created to help simplify the authoring of forms in Excel. XLSForms are simple to get started with but allow for the authoring of complex forms. Forms designed with Excel can be converted to XForms that can be used with UDACAPI.
-To design your form, refer to the [XLSForm form design documentation](http://xlsform.org/).
-
-You can also download a useful MS Excel template of XLSForm from UDACAPI. For this navigate XLSForm `Upload` page
-
-![An image](/images/s2_3-uploadLink.png)
-
-then, click `DOWNLOAD` link to get the MS Excel template with useful structure of XLSForm
-
-![An image](/images/s2_3-xlsformTemplate.png)
-
+# XLSForm Hazırlama
+XLSForm, Excel'de form yazımını basitleştirmeye yardımcı olmak için oluşturulmuş bir form standardıdır. XLSForm'ları kullanmaya başlamak kolaydır, ancak karmaşık formların yazılmasına izin verir. Excel ile tasarlanan formlar, UDACAPI ile kullanılabilen XLSForms'a dönüştürülebilir.
+Formunuzu tasarlamak için şuraya bakın: [XLSForm form dizayn dokümantasyon](http://xlsform.org/).
+ 
+Ayrıca UDACAPI'den kullanışlı bir XLSForm MS Excel şablonu da indirebilirsiniz. Bunun için **Projeler** sayfasında `İşlemler` sütununun altındaki `XLSForm Yükle` butonuna tıklayın.
+ 
+![An image](/images/s4-ProjectsDraftFormUpload-tr.png)
+ 
+Daha sonra, XLSForm'un kullanışlı yapısına sahip MS Excel şablonunu almak için `XLSFORM ÖRNEĞİ AL` bağlantısını tıklayın.
+ 
+![An image](/images/s4-ProjectsUploadXLSForm-tr.png)
+ 
 Once you prepare your XLSForm form you can upload it into UDACAPI platform.
-
+ 
 ::: tip
-We also offer training on preparation of XLSForm form - Survey questionnaires. Please, [contact us](mailto:info@udaconsulting.com) for more details.
+Ayrıca XLSForm formunun - Anketlerin hazırlanması konusunda eğitim de veriyoruz. Lütfen, [bize ulaşın](mailto:info@udaconsulting.com) daha fazla ayrıntı için.
 :::

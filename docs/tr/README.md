@@ -1,15 +1,15 @@
 ---
 home: true
 heroImage: /UDACAPI.png
-tagline: UDACAPI Documentation+ (v2.01)
+tagline: UDACAPI Dokümantasyon+ (v2.05)
 actionText: Başlat →
 actionLink: /tr/guide/
 features:
-- title: Real-Time Data Monitoring
-  details: An innovative data collection and monitoring system on near to real time for all you surveys.
-- title: Data Consistency Checks
-  details: Easily build any complexity of cross checks of your data while collecting surveys and control of your data.
-- title: Geo-Referenced Analysis
-  details: Analyze your geo-referenced data on top of maps and monitor indicators powered with statistical analysis.
-footer: Made by UDA Consulting with ❤️
+- title: Eş Zamanlı Veri İzleme
+  details: Tüm anketleriniz için eş zamanlıya yakın yenilikçi bir veri toplama ve izleme sistemi.
+- title: Veri Tutarlılığı Kontrolleri
+  details: Anketleri toplarken ve verilerinizi kontrol ederken karmaşık verilerinizin çapraz kontrollerini kolayca yapın.
+- title: Coğrafi Referanslı Analiz
+  details: Coğrafi referanslı verilerinizi haritaların üzerinde analiz edin ve istatistiksel analizle desteklenen göstergeleri izleyin.
+footer: UDA Danışmanlık tarafından yapılmıştır. ❤️
 ---
