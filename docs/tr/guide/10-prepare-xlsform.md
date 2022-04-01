@@ -4,11 +4,11 @@ Formunuzu tasarlamak için şuraya bakın: [XLSForm form dizayn dokümantasyon](
  
 Ayrıca UDACAPI'den kullanışlı bir XLSForm MS Excel şablonu da indirebilirsiniz. Bunun için **Projeler** sayfasında `İşlemler` sütununun altındaki `XLSForm Yükle` butonuna tıklayın.
  
-![An image](/images/s4-ProjectsDraftFormUpload-tr.png)
+![An image](./img/s4-ProjectsDraftFormUpload.png)
  
 Daha sonra, XLSForm'un kullanışlı yapısına sahip MS Excel şablonunu almak için `XLSFORM ÖRNEĞİ AL` bağlantısını tıklayın.
  
-![An image](/images/s4-ProjectsUploadXLSForm-tr.png)
+![An image](./img/s4-ProjectsUploadXLSForm.png)
  
 Once you prepare your XLSForm form you can upload it into UDACAPI platform.
  

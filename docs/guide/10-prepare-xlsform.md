@@ -5,11 +5,11 @@ To design your form, refer to the [XLSForm form design documentation](http://xls
 
 You can also download a useful MS Excel template of XLSForm from UDACAPI. For this in the **Projects** page click `Upload XLSForm` button under `Actions` column
 
-![An image](/images/s4-ProjectsDraftFormUpload.png)
+![An image](./img/s4-ProjectsDraftFormUpload.png)
 
 then, click `GET XLSFORM SAMPLE` link to get the MS Excel template with useful structure of XLSForm
 
-![An image](/images/s4-ProjectsUploadXLSForm.png)
+![An image](./img/s4-ProjectsUploadXLSForm.png)
 
 Once you prepare your XLSForm form you can upload it into UDACAPI platform.
 

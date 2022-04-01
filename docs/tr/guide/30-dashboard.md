@@ -11,24 +11,24 @@ Dashboard size anket verilerinizi neredeyse gerçek zamanlı olarak sunar. [Sorg
  
 Konumsal verileriniz varsa, harita üzerinde anket konumlarınızı izleyebilirsiniz. Bunun için [İzleme Tercihleri](/guide/21-preferences.html#progress-map) bloğunu açmalısınız.
  
-![An image](/images/s09_map-tr.jpg)
+![An image](./img/s09_map.jpg)
  
 ## Gösterge Paneli Bloğu
  
 `İlerleme Grafiği`, `Günlük İlerleme` ve`En Son Gönderimler` blokları da [İzleme Tercihleri](/guide/21-preferences.html#monitoring-blocks) sayfasında etkinleştirilir.
  
-![An image](/images/s09_mblocks-tr.png)
+![An image](./img/s09_mblocks.png)
  
 ## Veri Seti İndirme
  
 Bu bölüme dahil edilen veri kümelerinin türleri ayrıca [İzleme Tercihleri](/guide/21-preferences.html#monitoring-blocks) sayfası aracılığıyla etkinleştirildi. 
  
-![An image](/images/s09_datasets-tr.png)
+![An image](./img/s09_datasets.png)
  
-Seçtiğiniz bir veri kümesini indirebilmek için önce üzerine tıklayarak verilerin en son sürümünü oluşturmalısınız. ![An image](/images/s09_gen.png)
+Seçtiğiniz bir veri kümesini indirebilmek için önce üzerine tıklayarak verilerin en son sürümünü oluşturmalısınız. ![An image](./img/s09_gen.png)
  
-![An image](/images/s09_dataset_gen-tr.png)
+![An image](./img/s09_dataset_gen.png)
  
 Veri kümesi oluşturulduğunda onu indirebilirsiniz.
  
-![An image](/images/s09_dataset_dwn-tr.png)
+![An image](./img/s09_dataset_dwn.png)

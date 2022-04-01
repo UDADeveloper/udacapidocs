@@ -4,12 +4,12 @@ This section will contain Monitoring tools - updated in near to real time for se
 
 ## Monitoring tables
 
-![An image](/images/s10_mt_mt.jpg)
+![An image](./img/s10_mt_mt.jpg)
 
 ## Monitoring charts
 
-![An image](/images/s10_mt_mc.jpg)
+![An image](./img/s10_mt_mc.jpg)
 
 ## Descriptive statistics
 
-![An image](/images/s10_mt_ds.jpg)
+![An image](./img/s10_mt_ds.jpg)

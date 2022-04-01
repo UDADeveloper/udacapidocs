@@ -4,26 +4,26 @@ When you just publish your form, the next step is to add Data Collector account 
 
 **Step 6.1** Click `Settings` button under `Actions` column to open Form Settings page
 
-![An image](/images/s4-ProjectsActiveFormSettings.png)
+![An image](./img/s4-ProjectsActiveFormSettings.png)
 
 **Step 6.2** If you have no Data Collectors for the project you click `Add Data Collector` button to add the first user. You can always add more Data Collectors by clicking the link to Project Setting.
 
-![An image](/images/s6_2-DataCollectorLink.png)
+![An image](./img/s6_2-DataCollectorLink.png)
 
 **Step 6.2.1** In the Project Settings click `Add` button to register a Project's new Data Collector
 
-![An image](/images/s6_2_1-DataCollectorAdd.png)
+![An image](./img/s6_2_1-DataCollectorAdd.png)
 
 **Step 6.2.2** Then give a name and click the `Register` button.
 
-![An image](/images/s6_2_2-DataCollectorNew.png)
+![An image](./img/s6_2_2-DataCollectorNew.png)
 
 **Step 6.3** To assign the existing Data Collector to the current form just select it.
 
-![An image](/images/s6_3-DataCollectorAssign.png)
+![An image](./img/s6_3-DataCollectorAssign.png)
 
 Now only above selected `Field User` can see this form in the list of available forms in **ODK Collect** mobile application and send submissions. 
 
 **Step 6.3** You need only download QR Code and share it with those who will collect data in the field
 
-![An image](/images/s6_4-DataCollectorQRcode.png)
+![An image](./img/s6_4-DataCollectorQRcode.png)

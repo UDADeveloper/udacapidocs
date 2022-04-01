@@ -4,12 +4,12 @@ Bu bölüm,[İzleme Tercihleri](/guide/21-preferences.html#monitoring-tools) say
  
 ## İzleme Tabloları
  
-![An image](/images/s10_mt_mt-tr.jpg)
+![An image](./img/s10_mt_mt.jpg)
  
 ## İzleme Grafikleri
  
-![An image](/images/s10_mt_mc-tr.jpg)
+![An image](./img/s10_mt_mc.jpg)
  
 ## Betimleyici İstatistikler
  
-![An image](/images/s10_mt_ds-tr.jpg)
+![An image](./img/s10_mt_ds.jpg)

@@ -5,26 +5,26 @@ Formunuzu yayınladığınızda, sonraki adım, kullanacak Veri Toplayıcı hesa
  
 **Adım 6.1** Form Ayarları sayfasını açmak için `İşlemler` sütununun altındaki `Ayarlar` butonuna tıklayın
  
-![An image](/images/s4-ProjectsActiveFormSettings-tr.png)
+![An image](./img/s4-ProjectsActiveFormSettings.png)
  
 **Adım 6.2** Proje için Veri toplayıcı yoksa, ilk kullanıcıyı eklemek için `Veri Toplayıcı ekle` butonuna tıklayın. Proje Ayarı bağlantısını tıklayarak her zaman daha fazla Veri Toplayıcı ekleyebilirsiniz.
  
-![An image](/images/s6_2-DataCollectorLink-tr.png)
+![An image](./img/s6_2-DataCollectorLink.png)
  
 **Adım 6.2.1** Proje Ayarlarında, bir Projenin yeni Veri Toplayıcısını kaydetmek için `Ekle` butonuna tıklayın.
  
-![An image](/images/s6_2_1-DataCollectorAdd-tr.png)
+![An image](./img/s6_2_1-DataCollectorAdd.png)
  
 **Adım 6.2.2** Ardından bir isim verin ve `Kaydet` butonuna tıklayın.
  
-![An image](/images/s6_2_2-DataCollectorNew-tr.png)
+![An image](./img/s6_2_2-DataCollectorNew.png)
  
 **Adım 6.2.3** Mevcut Veri Toplayıcıyı mevcut forma atamak için sadece onu seçin.
  
-![An image](/images/s6_3-DataCollectorAssign-tr.png)
+![An image](./img/s6_3-DataCollectorAssign.png)
  
 Artık sadece yukarıda seçilen `Field User` bu formu **ODK Collect** mobil uygulamasındaki mevcut formlar listesinde görebilir ve başvuru gönderebilir. 
  
 **Adım 6.3** Sadece QR Kodunu indirmeniz ve sahada veri toplayacak olanlarla paylaşmanız yeterlidir.
  
-![An image](/images/s6_4-DataCollectorQRcode-tr.png)
+![An image](./img/s6_4-DataCollectorQRcode.png)
