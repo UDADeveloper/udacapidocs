@@ -19,7 +19,8 @@ Then enter the title of you project in the popup dialog box and click `REGISTER`
 ![An image](./img/s4-ProjectsAddNew.png)
 
 ::: tip Using your own ODK Central Server
-1. Click the   
+1. Click the `Use my own ODK Central Server` checkbox
+   ![An image](./img/s4-ProjectsAddNewOwnS.png)
 2. New users by default will not have any access to any project.
 3. Grant access to a web user is done from [Project Settings](./04-projects.html#project-settings.md).
 :::
