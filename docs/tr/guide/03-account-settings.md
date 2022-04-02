@@ -35,5 +35,5 @@ Farklı müşterilerden birkaç projeye sahip olduğunuzda, büyük olasılıkla
 ::: tip
 1. Web kullanıcısının erişim seviyeleri proje bazlıdır.  
 2. Yeni kullanıcıların herhangi bir projeye erişimi olmayacaktır.
-3. Web kullanıcısına erişim izni şu adresten yapılır [Proje Ayarları](/guide/04-projects.html#project-settings.md).
+3. Web kullanıcısına erişim izni şu adresten yapılır [Proje Ayarları](./04-projects.html#project-settings.md).
 :::

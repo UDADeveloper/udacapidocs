@@ -6,7 +6,7 @@
 
 ![An image](./img/s5_1-draftQRCode.png)
 
-**Step 5.2** Click the QR Code image and scan it with your [ODK Collect](/guide/15-odk-collect.html) application or download it to share with your colleagues who will test the survey form.
+**Step 5.2** Click the QR Code image and scan it with your [ODK Collect](./15-odk-collect.html) application or download it to share with your colleagues who will test the survey form.
 
 ![An image](./img/s5_2-DownloadDraftQRCode.png)
 

@@ -6,7 +6,7 @@
  
 ![An image](./img/s5_1-draftQRCode.png)
  
-**Adım 5.2** QR Kod görseline tıklayın ve [ODK Collect](/guide/15-odk-collect.html) uygulamasından taratın ya da Anket soru formunu test edecek kişilerle paylaşabilmek için cihazınıza indirin.
+**Adım 5.2** QR Kod görseline tıklayın ve [ODK Collect](./15-odk-collect.html) uygulamasından taratın ya da Anket soru formunu test edecek kişilerle paylaşabilmek için cihazınıza indirin.
 ![An image](./img/s5_2-DownloadDraftQRCode.png)
  
 **Adım 5.3** Sunucuya birkaç anket formu gönderdiğinizde, veri setini indirebilir ve görebilirsiniz. Arşivlenmiş CSV dosyasını almak için test verilerini indir butonuna tıklayın.

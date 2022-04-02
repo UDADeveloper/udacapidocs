@@ -1,6 +1,6 @@
 # Harita Panosu
  
-Anket formunuzda konum verilerini topladıysanız ve [İzleme Tercihleri](/guide/21-preferences.html##progress-map) sayfasından `İlerleme Haritası` nı etkinleştirdiyseniz `Harita Panosu`nu kullanabilirsiniz. 
+Anket formunuzda konum verilerini topladıysanız ve [İzleme Tercihleri](./21-preferences.html##progress-map) sayfasından `İlerleme Haritası` nı etkinleştirdiyseniz `Harita Panosu`nu kullanabilirsiniz. 
  
 ![An image](./img/s11_mb.jpg)
  

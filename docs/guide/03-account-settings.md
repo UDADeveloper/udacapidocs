@@ -34,5 +34,5 @@ When you have several projects from different clients, you most likely want that
 ::: tip
 1. Web user's access levels are project based. 
 2. New users by default will not have any access to any project.
-3. Grant access to a web user is done from [Project Settings](/guide/04-projects.html#project-settings.md).
+3. Grant access to a web user is done from [Project Settings](./04-projects.html#project-settings.md).
 :::

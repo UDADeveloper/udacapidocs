@@ -1,6 +1,6 @@
 # Veri İzleme
  
-Bu bölüm,[İzleme Tercihleri](/guide/21-preferences.html#monitoring-tools) sayfasında seçilen sorular için neredeyse eş zamanlı olarak güncellenen İzleme araçlarını içerecektir.
+Bu bölüm,[İzleme Tercihleri](./21-preferences.html#monitoring-tools) sayfasında seçilen sorular için neredeyse eş zamanlı olarak güncellenen İzleme araçlarını içerecektir.
  
 ## İzleme Tabloları
  

@@ -18,4 +18,4 @@ UDACAPI platform will generate the settings based on Form details. [Settings wor
 
 ![An image](./img/s4-ProjectsDeployedAttachment.png)
 
-Now you are ready to [test and publish your XLSForm](/guide/12-test-form.html).
+Now you are ready to [test and publish your XLSForm](./12-test-form.html).

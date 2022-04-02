@@ -12,7 +12,7 @@ Open it and go to the `Configure via QR code`
 
 ![An image](./img/collect_menu.png)
 
-To scan QR code from image read the QR code generated for [Deployed forms](/guide/12-test-form.html#submit-test-data.md) or [Data Collects](/guide/20-data-collectors.md)'s QR code from Project settings.
+To scan QR code from image read the QR code generated for [Deployed forms](./12-test-form.html#submit-test-data.md) or [Data Collects](./20-data-collectors.md)'s QR code from Project settings.
 
 ![An image](./img/collect_qrcode.png)
 

@@ -1,6 +1,6 @@
 # Data Monitoring
 
-This section will contain Monitoring tools - updated in near to real time for selected questions in [Monitoring preferences](/guide/21-preferences.html#monitoring-tools) page.
+This section will contain Monitoring tools - updated in near to real time for selected questions in [Monitoring preferences](./21-preferences.html#monitoring-tools) page.
 
 ## Monitoring tables
 

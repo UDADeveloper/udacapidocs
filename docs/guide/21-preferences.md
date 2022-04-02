@@ -2,8 +2,6 @@
 
 For each published form you need to assign you preferences to start Monitoring of data collection. Click the `Monitoring preferences` button to see all possible settings.
 
-<BestButton>Push Me</BestButton>
-
 ![An image](./img/s7_1-MPreferences.png)
 
 ## Monitoring blocks
@@ -14,7 +12,7 @@ Monitoring blocks is section with information about the submissions from your su
 
 ### Progress map
 
-If you collect locational data in your survey form, activating `Progress map` choice let you monitor data collection progress on the map via [Dashboard](/guide/30-dashboard.md) and also activate [Mapboard section](/guide/45-mapboard.md). To activate this choice you should select `Longitude` and `Latitude` variables from your survey form.
+If you collect locational data in your survey form, activating `Progress map` choice let you monitor data collection progress on the map via [Dashboard](./30-dashboard.md) and also activate [Mapboard section](./45-mapboard.md). To activate this choice you should select `Longitude` and `Latitude` variables from your survey form.
 
 ![An image](./img/s07_1PM.png)
 

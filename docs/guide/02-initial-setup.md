@@ -18,6 +18,12 @@ Then enter the title of you project in the popup dialog box and click `REGISTER`
 
 ![An image](./img/s4-ProjectsAddNew.png)
 
+::: tip Using your own ODK Central Server
+1. Click the   
+2. New users by default will not have any access to any project.
+3. Grant access to a web user is done from [Project Settings](./04-projects.html#project-settings.md).
+:::
+
 ## Add a Survey Form
 
 **Step 2.3** Now you can register a survey form. First, click the `NEW FORM` button inside the project block.
@@ -28,6 +34,6 @@ In the `New Form` dialog box enter the title for the survey form into `Form Titl
 
 ![An image](./img/s4-ProjectsAddFormDialog.png)
 
-Now your new form is registered and you are ready to  [upload your XLSForm](/guide/11-upload-xlsform.html).
+Now your new form is registered and you are ready to  [upload your XLSForm](./11-upload-xlsform.html).
 
 ![An image](./img/s4-ProjectsDraftForm.png)

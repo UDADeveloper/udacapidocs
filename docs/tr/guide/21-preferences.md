@@ -12,7 +12,7 @@ Yayınlanan her form için, veri toplamayı izlemeye başlamak için önce terci
  
 ### İlerleme Haritası
  
-Anket formunuzda konum verilerini toplarsanız,`İlerleme Haritası` seçeneğini etkinleştirmek, harita üzerinde veri toplama ilerlemesini [Gösterge Paneli](/guide/30-dashboard.md) aracılığıyla izlemenize ve ayrıca [Harita Tahtası Bölüm](/guide/45-mapboard.md). öğesini etkinleştirmenize olanak tanır. Bu seçimi etkinleştirmek için anket formundan `Boylam` ve `Enlem` değişkenlerini seçmelisiniz.
+Anket formunuzda konum verilerini toplarsanız,`İlerleme Haritası` seçeneğini etkinleştirmek, harita üzerinde veri toplama ilerlemesini [Gösterge Paneli](./30-dashboard.md) aracılığıyla izlemenize ve ayrıca [Harita Tahtası Bölüm](./45-mapboard.md). öğesini etkinleştirmenize olanak tanır. Bu seçimi etkinleştirmek için anket formundan `Boylam` ve `Enlem` değişkenlerini seçmelisiniz.
  
 ![An image](./img/s07_1PM.png)
  

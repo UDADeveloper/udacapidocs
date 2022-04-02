@@ -18,4 +18,4 @@ UDACAPI platformu, ayarları form ayrıntılarına göre oluşturacaktır. [Ayar
  
 ![An image](./img/s4-ProjectsDeployedAttachment.png)
  
-[XLSForm’unuzu test etmek ve yayınlamak](/guide/12-test-form.html) için hazır.
+[XLSForm’unuzu test etmek ve yayınlamak](./12-test-form.html) için hazır.

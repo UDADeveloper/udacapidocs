@@ -25,6 +25,6 @@ Ardından açılır iletişim kutusuna projenizin başlığını girin ve `KAYDE
  
 ![An image](./img/s4-ProjectsAddFormDialog.png)
  
-Yeni formunuz kaydedildi. Artık hazırsınız    [XLSForm’unuzu yükleyin](/guide/11-upload-xlsform.html).
+Yeni formunuz kaydedildi. Artık hazırsınız    [XLSForm’unuzu yükleyin](./11-upload-xlsform.html).
  
 ![An image](./img/s4-ProjectsDraftForm.png)

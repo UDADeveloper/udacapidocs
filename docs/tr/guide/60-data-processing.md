@@ -51,7 +51,7 @@ Mevcut sorguyu değiştirmek için butonuna tıklayın ![An image](./img/btn_pen
  
 ### Sorgu Sonuçlarını İndirin
  
-**İşlemler ** sütununun altındaki ![An image](./img/btn_download.png) `Sonuçları indir` butonuna tıklayarak sorgularınızın sonuçlarını indirebilirsiniz.Bu, [İzleme Tercihleri](/guide/21-preferences.md#types-of-dataset) sayfasında etkinleştirdiğiniz tüm veri kümeleri için sorgu sonucunun arşivlenmiş sürümünü indirecektir.
+**İşlemler ** sütununun altındaki ![An image](./img/btn_download.png) `Sonuçları indir` butonuna tıklayarak sorgularınızın sonuçlarını indirebilirsiniz.Bu, [İzleme Tercihleri](./21-preferences.md#types-of-dataset) sayfasında etkinleştirdiğiniz tüm veri kümeleri için sorgu sonucunun arşivlenmiş sürümünü indirecektir.
  
 ### Sorgu Silme
  
@@ -59,7 +59,7 @@ Sorguya ihtiyacınız yoksa, **İşlemler** sütunun altındaki ![An image](./im
  
 ### Sorgu Sonuçlarını Dahil Etmemek
  
-Bazen bir sorgunun sonuçlarını veri kümelerinizden hariç tutmak isteyebilirsiniz, böylece süreci doğru verilere sahip gönderimlerle takip edebilirsiniz. Yukarıdaki örnekte olduğu gibi, yanıtlayanların kabul edilmediği tüm gönderimleri  [Gösterge Paneli](/guide/30-dashboard.md) istatistiklerinden ve  [Veri Kümelerinizden](/guide/21-preferences.html#types-of-dataset) hariç tutmak istiyorsanız![An image](./img/btn_exclude.png) `Sonuçları veri kümesinden hariç tut` butonuna tıklayın. 
+Bazen bir sorgunun sonuçlarını veri kümelerinizden hariç tutmak isteyebilirsiniz, böylece süreci doğru verilere sahip gönderimlerle takip edebilirsiniz. Yukarıdaki örnekte olduğu gibi, yanıtlayanların kabul edilmediği tüm gönderimleri  [Gösterge Paneli](./30-dashboard.md) istatistiklerinden ve  [Veri Kümelerinizden](./21-preferences.html#types-of-dataset) hariç tutmak istiyorsanız![An image](./img/btn_exclude.png) `Sonuçları veri kümesinden hariç tut` butonuna tıklayın. 
  
 ::: tip
 1. Liste tablolarının sorguları için filtre düğmesi kullanılamaz.

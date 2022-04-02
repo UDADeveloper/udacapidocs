@@ -50,7 +50,7 @@ To change the existing query click on button ![An image](./img/btn_pencil.png) `
 
 ### Download query results
 
-You can download results of your queries by clicking ![An image](./img/btn_download.png) `Download results` button under **Actions** column. This will download archived version of query result for all datasets you activated in [Monitoring preferences](/guide/21-preferences.md#types-of-dataset) page.
+You can download results of your queries by clicking ![An image](./img/btn_download.png) `Download results` button under **Actions** column. This will download archived version of query result for all datasets you activated in [Monitoring preferences](./21-preferences.md#types-of-dataset) page.
 
 ### Delete query
 
@@ -58,7 +58,7 @@ If you do not need the query you can delete it by clicking ![An image](./img/btn
 
 ### Exclude query results
 
-Sometimes you might want to exclude results of a query from your datasets, so you can track the process with submission that has accurate data. As in above example if you want to exclude all submission with not agreed respondents from [Dashboard](/guide/30-dashboard.md) statistics and from your [datasets](/guide/21-preferences.html#types-of-dataset) click ![An image](./img/btn_exclude.png) `Exclude results from dataset` button. 
+Sometimes you might want to exclude results of a query from your datasets, so you can track the process with submission that has accurate data. As in above example if you want to exclude all submission with not agreed respondents from [Dashboard](./30-dashboard.md) statistics and from your [datasets](./21-preferences.html#types-of-dataset) click ![An image](./img/btn_exclude.png) `Exclude results from dataset` button. 
 
 ::: tip
 1. Filter button is not available for queries of roster tables.
