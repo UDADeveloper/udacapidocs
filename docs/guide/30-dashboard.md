@@ -1,22 +1,74 @@
 # Dashboard
 
-Dashboard will help you to monitor your data collection process and initially it has no blocks. You should add blocks using [Monitoring preferences](./21-preferences.html#monitoring-blocks).
+Dashboard will help you to monitor your data collection process.
+
+## Monitoring Blocks
+In this section there are three default blocks: `Completed submissions`; `Last submission` and barchart of `Latest submissions`. More blocks can be addedd using block settings box.
+
+### Default blocks
+
+**Completed submissions** and  **Last submission** are statisistics blocks
+![An image](./img/noimage.png) -Completed submissions  ![An image](./img/noimage.png)-Last submission
+
+**Latest submissions** block is a bar chart indicating trends for last days' data collection statistics. While activating this block you need to indicate the number - how many days you would like to include into this bar chart
+
+![An image](./img/s07_1LS.png)
+
+Click settings button to opan settings box. ![An image](./img/noimage.png)
+
+![An image](./img/noimage.png)
+
+### Additional blocks
+#### Progress pie
+
+To add a progress pie block you need to select a table:
+
+![An image](./img/s07_1PP.png)
+
+Then, you need to indicate your target - total number of submissions you planned to collect from the field. You find target field in the settings block. The default number is 100, change it accordingly.
+
+![An image](./img/noimage.png) - image target
+
+![An image](./img/noimage.png) - block image
+
+
+#### Daily progress
+
+The daily progress block will inform about current progress and previous days' statistics in terms of data collection. In this block you can also see the start date of data collection progress and remaining surveys.
+
+![An image](./img/s07_1PP.png)
+
+Here also you need to indicate your target - total number of submissions you planned to collect from the field. Default number is 100, you change it accordingly.
+
+![An image](./img/noimage.png) - block image
+
 
 ::: tip Note
 Dashboard presents you your survey data in near to real time. If you have any queries marked to be exclude from dataset in [Query Builder](./60-data-processing.html#query-builder), than the results of that query will not be included into the data of these blocks.
 :::
 
-## Progress map
+#### Progress map
 
-If you have locational data you can monitor your survey locations on the map. For this you should turn on this block in [Monitoring preferences](./21-preferences.html#progress-map).
+If you collect locational data in your survey form, selecting `Progress map` choice let you monitor data collection progress on the map in this Dashboard. This will also activate [Mapboard section](./45-mapboard.md). 
 
 ![An image](./img/s09_map.jpg)
 
-## Dashboard blocks
+To activate this block you should select `Longitude` and `Latitude` variables from your survey form.
 
-`Progress pie chart`, `Daily progress` and `Latest submissions` blocks are also activated in [Monitoring preferences](./21-preferences.html#monitoring-blocks) page.
+![An image](./img/s07_1PM.png)
 
-![An image](./img/s09_mblocks.png)
+## Data Monitoring
+
+This section contains Monitoring tables and Descriptive statistics sections.
+
+### Monitoring tables
+
+![An image](./img/s10_mt_mt.jpg)
+
+### Descriptive statistics
+
+![An image](./img/s10_mt_ds.jpg)
+
 
 ## Download Datasets
 

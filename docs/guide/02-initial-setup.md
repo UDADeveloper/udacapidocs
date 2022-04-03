@@ -10,7 +10,7 @@ To start using the system you need to register a new project. Click `ADD FORM IN
 
 ## Register a Project
 
-**Step 2.2** Each survey form belongs to a project. Therefore, first, you need to register a new project. In **Projects** page click on the `New Project` button.
+**Step 2.2a** Each survey form belongs to a project. Therefore, first, you need to register a new project. In **Projects** page click on the `New Project` button.
 
 ![An image](./img/s4-ProjectsNone.png)
 
@@ -18,11 +18,18 @@ Then enter the title of you project in the popup dialog box and click `REGISTER`
 
 ![An image](./img/s4-ProjectsAddNew.png)
 
-::: tip Using your own ODK Central Server
-1. Click the `Use my own ODK Central Server` checkbox
+**Step 2.2b** Using your own ODK Central Server
+
+If you have your own ODK Central server installed you can use it with UDACAPI for this
+1.  Click the `Use my own ODK Central Server` checkbox
+
    ![An image](./img/s4-ProjectsAddNewOwnS.png)
-2. New users by default will not have any access to any project.
-3. Grant access to a web user is done from [Project Settings](./04-projects.html#project-settings.md).
+   
+2. Type you ODK Central's URL into field `ODK Central's URL` field
+3. Type username and password into relevant fields.
+::: tip Note
+
+You should enter credentials of the **user who is the administrator** in order to use your own server
 :::
 
 ## Add a Survey Form

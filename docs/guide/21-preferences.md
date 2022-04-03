@@ -10,37 +10,6 @@ Monitoring blocks is section with information about the submissions from your su
 
 ![An image](./img/s07_1DB_empty.png)
 
-### Progress map
-
-If you collect locational data in your survey form, activating `Progress map` choice let you monitor data collection progress on the map via [Dashboard](./30-dashboard.md) and also activate [Mapboard section](./45-mapboard.md). To activate this choice you should select `Longitude` and `Latitude` variables from your survey form.
-
-![An image](./img/s07_1PM.png)
-
-### Progress pie
-
-Progress pie block does not require any specific variable to be selected you need select table:
-
-![An image](./img/s07_1PP.png)
-
-also you need to indicate your target - total number of submissions you planned to collect from the field. Default number is 100, you change it accordingly.
-
-![An image](./img/s07_1PP_target.png)
-
-### Daily progress
-
-Daily progress will inform about current progress and previous days' statistics in terms of data collection. In this block you can also see the start date of data collection progress and remaining surveys.
-
-![An image](./img/s07_1PP.png)
-
-Here also you need to indicate your target - total number of submissions you planned to collect from the field. Default number is 100, you change it accordingly.
-
-![An image](./img/s07_1DP_target.png)
-
-### Latest submissions
-
-Latest submissions block is a bar chart indicating trends for last days' data collection statistics. While activating this block you need to indicate the number - how many days you would like to include into this bar chart
-
-![An image](./img/s07_1LS.png)
 
 ## Types of Dataset
  

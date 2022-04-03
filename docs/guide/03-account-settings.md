@@ -1,6 +1,6 @@
 # Account Settings
 
-Account settings are available from `Settings` of account menu menu
+Account settings are available from `Settings` of account menu
 
 ![An image](./img/s3-AppSettingsMenu.png)
 
